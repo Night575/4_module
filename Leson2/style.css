@@ -1,0 +1,16 @@
+h1 {
+    background: green;
+}
+
+.paragraph-1 {
+    font-weight: bold;
+    font-family: Arial;
+    font-style: italic;
+}
+
+.paragraph-2 {
+    border: red dotted 5px;
+    border-radius: 30px;
+    margin: 50px;
+    padding: 50px;
+}
